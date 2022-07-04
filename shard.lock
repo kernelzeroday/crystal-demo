@@ -1,0 +1,10 @@
+version: 2.0
+shards:
+  simple_irc:
+    git: https://github.com/wyhaines/simple_irc.cr.git
+    version: 0.2.0+git.commit.5623659329d23f626f011fca14d478176835279e
+
+  timeout:
+    git: https://github.com/wyhaines/timeout.cr.git
+    version: 0.1.0+git.commit.130d8893f5222ebaed06f743a3bdad7f6b2a7be7
+

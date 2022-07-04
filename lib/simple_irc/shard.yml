@@ -1,0 +1,19 @@
+name: simple_irc
+version: 0.2.0
+
+authors:
+  - Kirk Haines <wyhaines@gmail.com>
+
+crystal: 1.0.0
+
+license: MIT
+
+dependencies:
+  timeout:
+    github: wyhaines/timeout.cr
+
+development_dependencies:
+  ameba:
+    github: crystal-ameba/ameba
+    version: ~> 0.14
+
